@@ -1,5 +1,3 @@
-# Nome do Projeto
-
 Este repositório reúne o código-fonte, os conjuntos de dados e os experimentos desenvolvidos para a disciplina de **Metodologia de Pesquisa em Computação**.
 
 O objetivo do projeto é garantir a **reprodutibilidade** dos resultados apresentados no artigo científico, disponibilizando toda a infraestrutura necessária para execução dos experimentos.
